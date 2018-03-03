@@ -1,0 +1,18 @@
+{
+  "name": "project-nodejs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/index",
+    "dev": "node ./src/index"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.14.1",
+    "nshell": "^0.0.3",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}
