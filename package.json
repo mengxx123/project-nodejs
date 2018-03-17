@@ -9,6 +9,8 @@
   "dependencies": {
     "colors": "^1.1.2",
     "commander": "^2.14.1",
+    "nginx-conf-parser": "^0.1.1",
+    "nginxparser": "^2.1.0",
     "nshell": "^0.0.3",
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
